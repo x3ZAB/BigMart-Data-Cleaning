@@ -10,7 +10,7 @@ This project focuses on cleaning and preparing the Big Mart Sales dataset using 
 - Created Outlet_Age feature
 
 ## Files
-- bigmart_data_cleaning.ipynb
+- bigmart_data_cleaning.csv
 - cleaned_bigmart.csv
 
 ## Tools Used
